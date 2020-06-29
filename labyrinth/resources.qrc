@@ -1,0 +1,18 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/greenbutton.png</file>
+        <file>images/redbutton.png</file>
+        <file>images/yellowbutton.png</file>
+        <file>images/fingerprint.png</file>
+        <file>images/logo.png</file>
+        <file>images/addButton.png</file>
+        <file>images/addButton-pressed.png</file>
+        <file>images/removeButton-pressed.png</file>
+        <file>images/removeButton.png</file>
+        <file>images/clipboard.png</file>
+        <file>images/redbutton-hover.png</file>
+        <file>images/yellowbutton-hover.png</file>
+        <file>images/favorite-unchecked.png</file>
+        <file>images/favorite-checked.png</file>
+    </qresource>
+</RCC>
