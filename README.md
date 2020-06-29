@@ -1,1 +1,1 @@
-# labyrinth
+# Labyrinth
